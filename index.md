@@ -11,3 +11,7 @@ Yep!
 ### How do I do this?
 
 You should start by making an account at github.com, then head over to https://pages.github.com/ to see some instructions.
+
+### Did you have to do any styling?
+
+I did not. I just typed some things into this template that they start you with.
